@@ -1,6 +1,6 @@
 # 👩‍💻 Asma Ben Ali
 
-**Data Science Engineer | PhD Candidate @ LaBRI (University of Bordeaux) | AI & Software Engineering Researcher**
+Data Science Engineer | PhD Candidate @ LaBRI (University of Bordeaux) | AI & Software Engineering Researcher
 
 📍 Bordeaux, France  
 📧 [benaliasma631@gmail.com](mailto:benaliasma631@gmail.com)  
